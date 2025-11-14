@@ -1,7 +1,9 @@
 # TASK 01
 
 This repository contains the full work for **Task 01: Data Cleaning & Preprocessing**.
+
 Objective: Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats).
+
 Tools: Excel/ Python(Pandas).
 
 ## Included:
